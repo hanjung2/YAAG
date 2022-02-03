@@ -1,2 +1,3 @@
-# YAAG
-Yet Another Angular Grid
+# ngrid
+
+Grid Library for Angular 2+ Application
